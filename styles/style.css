@@ -11,6 +11,7 @@ html {
 }
 
 .page {
+  display: flex;
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
@@ -18,8 +19,7 @@ html {
   font-family: "Fira Sans Condensed", Arial, sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  width: 1200px;
-  min-height: 534px;
+  align-items: center;
   justify-content: center;
 }
 
@@ -44,7 +44,7 @@ ol {
 
 .content {
   width: 1140px;
-  min-height: 534px;
+  height: 534px;
   margin: 133px auto;
   padding: 0;
   justify-content: center;
