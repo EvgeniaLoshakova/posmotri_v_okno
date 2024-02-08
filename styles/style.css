@@ -19,6 +19,7 @@ html {
   background-color: #1b1919;
   width: 1200px;
   height: 800px;
+  justify-content: center;
 }
 
 h1,
