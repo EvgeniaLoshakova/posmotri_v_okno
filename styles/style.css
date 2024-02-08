@@ -12,7 +12,7 @@ html {
 .page {
   inline-size: 1200px;
   block-size: 100%;
-  margin: 133px auto;
+  margin: auto;
   color: #fff;
   font-family: "Fira Sans Condensed", Arial, sans-serif;
   font-size: 18px;
@@ -43,7 +43,7 @@ ol {
 .content {
   width: 1140px;
   min-height: 534px;
-  margin-top: 133px auto;
+  margin: 133px 0;
   padding: 0;
   justify-content: center;
   align-items: flex-end;
