@@ -1,1 +1,1 @@
-https://github.com/EvgeniaLoshakova/posmotri_v_okno
+https://github.com/EvgeniaLoshakova/posmotri_v_okno.git
